@@ -1,3 +1,15 @@
 /target
+target
+debug
 
+# Rust backup files
+**/*.rs.bk
+
+# MSVC Windows debug symbols
+*.pdb
+
+# Cargo mutants output
+**/mutants.out*/
+
+# Local IDE settings
 .idea/

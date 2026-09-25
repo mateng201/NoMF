@@ -1,4 +1,4 @@
-# erc8004-mini-inspector
+# NoMF
 
 A tiny offline demo for the `erc8004` SDK.
 
